@@ -20,7 +20,7 @@
 - 🌐 <strong>Web development</strong> (from idea to deploy)
 
 #### Beyond code
-- 🏋️‍♂️ <strong>Streetlifting & Calisthenics coach</strong> — national & international titles  
+- 🏋️‍♂️ <strong>Streetlifting & Calisthenics coach</strong> — national & international titles: 6x🏆Overall, 1x🏆OverAllOpen , 🥉🏆ISF, 4x🥉, 3x🥈, 2x🥇
 - 🐆 Team: <a href="https://instagram.com/calisthenics_florence" target="_blank">@calisthenics_florence</a>
 
 ---
