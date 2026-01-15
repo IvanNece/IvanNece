@@ -17,6 +17,7 @@
 #### What I’m into
 - 🤖 <strong>Artificial Intelligence</strong> & <strong>Robot Learning</strong>
 - 🤖 <strong>Building production-ready AI agents and scalable LLM applications</strong>
+- 🤖 <strong>Vision and multimedia applications</strong>
 - 🚗 <strong>Autonomous vehicle technologies</strong> & <strong>general robotics</strong>  
 - 🌐 <strong>Web development</strong> (from idea to deploy)
 
