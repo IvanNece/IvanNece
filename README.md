@@ -16,13 +16,12 @@
 
 ### 🔬 Research Interests & Focus Areas
 
-- 🤖 **Artificial Intelligence** 
-- 🎯 **Robot Learning (RL)** 
-- 💻 **LLM4SE** 
-- 🔗 **Multi-agent Systems & Scalable LLMs** 
-- 👁️ **Vision & Multimedia Applications**
-- 🚗 **Autonomous Systems** 
-- 🌐 **Web Development** 
+- � **LLMs & Generative AI** — RAG systems, agentic workflows
+- 🤝 **Multi-Agent Systems** — process automation & coordination
+- 👁️ **Computer Vision & Multimedia Applications**
+- 🦾 **Robot Learning & Autonomous Systems**
+- 💻 **LLM4SE**
+- 🌐 **Web Development**
 
 ---
 
