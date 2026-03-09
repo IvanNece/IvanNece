@@ -1,6 +1,8 @@
 <h1 align="left">Hi there, I'm Ivan Necerini 👋</h1>
 
-🔬 **Aspiring AI Engineer** | 🎓 Master's in Computer Engineering (AI & Robotics) @PoliTo
+🤖 **AI Engineer** | 🎓 M.Sc. in Computer Engineering (AI & Robotics) @PoliTo
+
+Building intelligent automation through **LLMs, RAG architectures, and multi-agent workflows** designed to orchestrate complex processes and enable real-world impact.
 
 🏋️‍♂️ **Streetlifting & Calisthenics coach** — National & international coach and athlete | <a href="https://instagram.com/calisthenics_florence" target="_blank">@calisthenics_florence</a>
 
@@ -14,14 +16,28 @@
 
 ---
 
-### 🔬 Research Interests & Focus Areas
+### 🔬 What I Do
 
-- 🤖 **LLMs & Generative AI** — RAG systems, agentic workflows
-- 💻 **Multi-Agent Systems** — process automation & coordination
-- 🎯 **LLM4SE**
-- 👁️ **Computer Vision & Multimedia Applications**
-- 🦾 **Robot Learning & Autonomous Systems**
-- 🌐 **Web Development**
+I design and build **AI systems powered by LLMs, RAG architectures, and multi-agent workflows** to automate complex processes. My focus is on developing systems that can reason, coordinate, and execute tasks—enabling intelligent automation in real-world environments where theory meets practice.
+
+Working at the intersection of **Artificial Intelligence, multi-agent systems, and computer vision**, I build software that scales processes and supports intelligent decision-making across organizations.
+
+---
+
+### 🛠️ Technical Focus Areas
+
+- **🤖 LLMs & Generative AI** — RAG systems, agentic workflows, AI pipelines
+- **🔗 Multi-Agent Systems** — Process automation, orchestration & coordination (LangSuite, n8n, LangGraph)
+- **⚙️ AI for Business Process Automation & Optimization** — Intelligent workflow design and orchestration
+- **👁️ Computer Vision & Multimedia AI** — Vision-based applications and intelligent media processing
+- **🦾 Robot Learning & Autonomous Systems** — Robotics, reinforcement learning, autonomous vehicles
+- **🌐 Web Development** — Full-stack applications supporting AI systems
+
+---
+
+### 💡 Philosophy
+
+I bring the same **discipline, precision, and iterative mindset** from competitive sport into every project. Whether architecting AI systems or coaching athletes, it's about consistent optimization and excellence.
 
 ---
 
