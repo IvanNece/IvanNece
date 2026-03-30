@@ -16,13 +16,13 @@
 
 ### 🔬 What I Do
 
-I design and build autonomous AI systems and high-availability software architectures. My expertise lies at the intersection of Advanced RAG, Multi-Agent workflows, and robust software engineering, creating "Agentic" solutions that reason, coordinate, and solve complex problems in real-world environments.
-​
-
 🎓 AI Engineer Intern @ Neuratio | M.Sc. AI & Robotics @ Politecnico di Torino. 
 
 
 Currently, I am developing my Master’s Thesis at Neuratio, architecting a multi-agent ecosystem designed to transform static industrial documentation into active decision-support tools. I focus on reducing the cognitive load for human operators by bridging the gap between high-level AI theory and practical, scalable industrial applications.
+
+
+🚀 Lead Developer @ Street Control I am the lead architect of Street Control, the official platform for ASD Streetlifting Italia. I engineered this system to digitize national competitions, enabling real-time live broadcasts and centralized data management. By building a robust database to track performance and history, I provided the technical infrastructure necessary to scale the sport’s visibility and growth nationwide.
 
 ---
 
