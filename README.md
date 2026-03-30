@@ -2,8 +2,6 @@
 
 🤖 **AI Engineer** | 🎓 M.Sc. in Computer Engineering (AI & Robotics) @PoliTo
 
-Building intelligent automation through **LLMs, RAG architectures, and multi-agent workflows** designed to orchestrate complex processes and enable real-world impact.
-
 🏋️‍♂️ **Streetlifting & Calisthenics coach** — National & international coach and athlete | <a href="https://instagram.com/calisthenics_florence" target="_blank">@calisthenics_florence</a>
 
 📍 **Italy** (Florence → Turin)  
@@ -18,9 +16,11 @@ Building intelligent automation through **LLMs, RAG architectures, and multi-age
 
 ### 🔬 What I Do
 
-I design and build **AI systems powered by LLMs, RAG architectures, and multi-agent workflows** to automate complex processes. My focus is on developing systems that can reason, coordinate, and execute tasks—enabling intelligent automation in real-world environments where theory meets practice.
+I design and build autonomous AI systems and high-availability software architectures. My expertise lies at the intersection of Advanced RAG, Multi-Agent workflows, and robust software engineering, creating "Agentic" solutions that reason, coordinate, and solve complex problems in real-world environments.
+​
+🎓 AI Engineer Intern @ Neuratio | M.Sc. AI & Robotics @ Politecnico di Torino 
 
-Working at the intersection of **Artificial Intelligence, multi-agent systems, and computer vision**, I build software that scales processes and supports intelligent decision-making across organizations.
+Currently, I am developing my Master’s Thesis at Neuratio, architecting a multi-agent ecosystem designed to transform static industrial documentation into active decision-support tools. I focus on reducing the cognitive load for human operators by bridging the gap between high-level AI theory and practical, scalable industrial applications.
 
 ---
 
@@ -32,12 +32,6 @@ Working at the intersection of **Artificial Intelligence, multi-agent systems, a
 - **👁️ Computer Vision & Multimedia AI** — Vision-based applications and intelligent media processing
 - **🦾 Robot Learning & Autonomous Systems** — Robotics, reinforcement learning, autonomous vehicles
 - **🌐 Web Development** — Full-stack applications supporting AI systems
-
----
-
-### 💡 Philosophy
-
-I bring the same **discipline, precision, and iterative mindset** from competitive sport into every project. Whether architecting AI systems or coaching athletes, it's about consistent optimization and excellence.
 
 ---
 
