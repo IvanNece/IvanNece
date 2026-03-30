@@ -18,7 +18,9 @@
 
 I design and build autonomous AI systems and high-availability software architectures. My expertise lies at the intersection of Advanced RAG, Multi-Agent workflows, and robust software engineering, creating "Agentic" solutions that reason, coordinate, and solve complex problems in real-world environments.
 ​
-🎓 AI Engineer Intern @ Neuratio | M.Sc. AI & Robotics @ Politecnico di Torino 
+
+🎓 AI Engineer Intern @ Neuratio | M.Sc. AI & Robotics @ Politecnico di Torino. 
+
 
 Currently, I am developing my Master’s Thesis at Neuratio, architecting a multi-agent ecosystem designed to transform static industrial documentation into active decision-support tools. I focus on reducing the cognitive load for human operators by bridging the gap between high-level AI theory and practical, scalable industrial applications.
 
